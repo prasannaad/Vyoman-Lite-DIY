@@ -3,6 +3,9 @@
 
 # Vyoman_PM_Lite_DIY
 Make your basic PM monitor!
+The Vyoman PM Lite is a complete set of modular hardware components aiming to provide tools for environmental monitoring, ranging from citizen science and educational activities to more advanced scientific research. 
+
+
 
 ## What are PM Monitors?
 
@@ -15,3 +18,5 @@ and PM2.5 (particles with a diameter of 2.5 micrometers or smaller).
 
 Particulate matter monitors are essential tools for environmental monitoring, air quality assessment, and public health studies. They help authorities and researchers understand the levels of 
 particulate matter in the air, identify pollution sources and assess the potential health risks associated with exposure to these particles.
+
+## What Sensors are used?
