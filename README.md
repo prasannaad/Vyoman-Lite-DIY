@@ -1,7 +1,7 @@
 
-# Vyoman![vyoman (3) (1)](https://github.com/prasannaad/Vyoman_PM_Lite_DIY/assets/70738433/8631e6c6-3bfb-465c-90d9-40828e3c05e3)
+![vyoman (3) (1)](https://github.com/prasannaad/Vyoman_PM_Lite_DIY/assets/70738433/8631e6c6-3bfb-465c-90d9-40828e3c05e3)
 
-_PM_Lite_DIY
+# Vyoman_PM_Lite_DIY
 Make your basic PM monitor!
 
 ## What are PM Monitors?
