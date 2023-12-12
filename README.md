@@ -3,7 +3,7 @@
 
 # Vyoman_PM_Lite_DIY
 Make your basic PM monitor!
-The Vyoman PM Lite is a complete set of modular hardware components aiming to provide tools for environmental monitoring, ranging from citizen science and educational activities to more advanced scientific research. 
+The Vyoman PM Lite is a complete set of modular & simple device aiming to provide tools for environmental monitoring, ranging from citizen science and educational activities to more advanced scientific research. 
 
 
 
