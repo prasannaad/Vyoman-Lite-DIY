@@ -36,3 +36,7 @@ Low-cost particulate matter (PM) light scattering sensors typically operate on t
 5. **Data Processing:** The sensor processes the data, analyzing the scattering pattern and intensity to estimate the concentration and size of the particles. Algorithms are often employed to convert the scattering information into particulate matter measurements.
 
 It's important to note that while low-cost PM sensors based on light scattering are valuable for providing real-time or near-real-time information about air quality, they may have limitations compared to more sophisticated and expensive instruments. Factors such as cross-sensitivity to different particle types, sensitivity to environmental conditions, and calibration issues may affect their accuracy. Therefore, they are often used in applications where cost and real-time data are prioritized over absolute precision, such as citizen science projects, educational activities, and initial air quality assessments.
+
+## Wiring
+![Untitled design (38)](https://github.com/prasannaad/Vyoman_PM_Lite_DIY/assets/70738433/59766218-3306-4934-b6f1-47b5434deff9)
+
